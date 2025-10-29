@@ -23,3 +23,9 @@ const myFunction = function() {
 }
 console.log(typeof myFunction)
 console.log(typeof myObject)
+
+
+//************************************* 
+
+// Stack (primitive), Heap (Non-primitive)
+  
